@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--跟标签beans-->
+<beans>
+
+    <!--子标签bean，其中id标识符，class是类的全限定类名-->
+    <bean id="accountDao" class="com.lagou.dao.impl.JdbcAccountDaoImpl">
+        <property name="ConnectionUtils" ref="connectionUtils"/>
+    </bean>
+
+    <!-- 考虑不给类名直接赋值的set注入，需要引用的对象 -->
+    <bean id="transferService" class="com.lagou.service.impl.TransferServiceImpl">
+        <!--指定被引用对象-->
+        <property name="AccountDao" ref="accountDao"></property>
+    </bean>
+
+
+    <!--连接池工具类-->
+    <bean id="connectionUtils" class="com.lagou.utils.ConnectionUtils"></bean>
+
+    <!--事务管理器-->
+    <bean id="transactionManager" class="com.lagou.utils.TransactionManager">
+        <property name="ConnectionUtils" ref="connectionUtils"/>
+    </bean>
+
+    <!--代理对象工厂-->
+    <bean id="proxyFactory" class="com.lagou.factory.ProxyFactory">
+        <property name="TransactionManager" ref="transactionManager"/>
+    </bean>
+</beans>
