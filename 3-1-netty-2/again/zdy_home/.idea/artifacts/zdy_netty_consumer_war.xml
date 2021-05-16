@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="zdy_netty_consumer:war">
+    <output-path>$PROJECT_DIR$/zdy_netty_consumer/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>zdy_netty_consumer</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="zdy_netty_consumer-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="zdy_netty_consumer:war exploded" />
+    </root>
+  </artifact>
+</component>

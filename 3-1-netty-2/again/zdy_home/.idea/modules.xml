@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/zdy_home.iml" filepath="$PROJECT_DIR$/.idea/zdy_home.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zdy_netty_common/zdy_netty_common.iml" filepath="$PROJECT_DIR$/zdy_netty_common/zdy_netty_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zdy_netty_consumer/zdy_netty_consumer.iml" filepath="$PROJECT_DIR$/zdy_netty_consumer/zdy_netty_consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zdy_netty_provider/zdy_netty_provider.iml" filepath="$PROJECT_DIR$/zdy_netty_provider/zdy_netty_provider.iml" />
+    </modules>
+  </component>
+</project>

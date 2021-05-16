@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a87287a4-756b-4b28-ad79-c68478bfdfae" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="zdy_home" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1q33itik5zuaT6TEnjI1LhrspGS" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/拉钩资料/模块三/模块3-1/3-1新版课程资料/课程资料/课程代码/lg-rpc" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.lagou.zdy_netty_provider.handler" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ideaWorkSpace\zdy_home\zdy_netty_common\src\main\java\com\lagou\zdy_netty_common" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ClientBootStrap">
+    <configuration name="ClientBootStrap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lagou.zdy_netty_consumer.ClientBootStrap" />
+      <module name="zdy_netty_consumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lagou.zdy_netty_consumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="zdy_netty_common" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="zdy_netty_common" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZdyNettyCommonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="zdy_netty_common" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lagou.zdy_netty_common.ZdyNettyCommonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZdyNettyConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="zdy_netty_consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lagou.zdy_netty_consumer.ZdyNettyConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZdyNettyProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="zdy_netty_provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lagou.zdy_netty_provider.ZdyNettyProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ClientBootStrap" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a87287a4-756b-4b28-ad79-c68478bfdfae" name="Default Changelist" comment="" />
+      <created>1616294576151</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616294576151</updated>
+      <workItem from="1616294583025" duration="1158000" />
+      <workItem from="1616297621766" duration="11984000" />
+      <workItem from="1616675110645" duration="620000" />
+      <workItem from="1616676872397" duration="2044000" />
+      <workItem from="1616681794483" duration="1800000" />
+      <workItem from="1616684111744" duration="1780000" />
+      <workItem from="1616685950574" duration="763000" />
+      <workItem from="1619535637019" duration="111000" />
+      <workItem from="1619535782586" duration="3352000" />
+      <workItem from="1621128334224" duration="24681000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="343" y="53" key="#Project_Structure" timestamp="1621161879356">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="343" y="53" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1621161879356" />
+    <state x="555" y="99" key="#com.intellij.ide.util.MemberChooser" timestamp="1621153009589">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="555" y="99" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1621153009589" />
+    <state x="531" y="279" width="473" height="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1621162874588">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="531" y="279" width="473" height="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1621162874588" />
+    <state x="465" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1616513548126">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1616513548126" />
+    <state x="528" y="273" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1616683101298">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="528" y="273" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1616683101298" />
+    <state x="531" y="150" key="FileChooserDialogImpl" timestamp="1621129031875">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="531" y="150" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1621129031875" />
+    <state width="1493" height="114" key="GridCell.Tab.0.bottom" timestamp="1621161796337">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="114" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1621161796337" />
+    <state width="1493" height="114" key="GridCell.Tab.0.center" timestamp="1621161796337">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="114" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1621161796337" />
+    <state width="1493" height="114" key="GridCell.Tab.0.left" timestamp="1621161796337">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="114" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1621161796337" />
+    <state width="1493" height="114" key="GridCell.Tab.0.right" timestamp="1621161796337">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="114" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1621161796337" />
+    <state width="1465" height="114" key="GridCell.Tab.1.bottom" timestamp="1621161763036">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1465" height="114" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1621161763036" />
+    <state width="1465" height="114" key="GridCell.Tab.1.center" timestamp="1621161763036">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1465" height="114" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1621161763036" />
+    <state width="1465" height="114" key="GridCell.Tab.1.left" timestamp="1621161763036">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1465" height="114" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1621161763036" />
+    <state width="1465" height="114" key="GridCell.Tab.1.right" timestamp="1621161763036">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1465" height="114" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1621161763036" />
+    <state width="1465" height="165" key="GridCell.Tab.2.bottom" timestamp="1621158441167">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1465" height="165" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1621158441167" />
+    <state width="1465" height="165" key="GridCell.Tab.2.center" timestamp="1621158441166">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1465" height="165" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1621158441166" />
+    <state width="1465" height="165" key="GridCell.Tab.2.left" timestamp="1621158441166">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1465" height="165" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1621158441166" />
+    <state width="1465" height="165" key="GridCell.Tab.2.right" timestamp="1621158441167">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1465" height="165" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1621158441167" />
+    <state x="442" y="219" key="com.intellij.ide.util.TipDialog" timestamp="1620307516899">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="442" y="219" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1620307516899" />
+    <state x="160" y="58" key="new project wizard" timestamp="1616417526969">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="160" y="58" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1616417526969" />
+    <state x="510" y="358" key="run.anything.popup" timestamp="1621144992174">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="510" y="358" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1621144992174" />
+    <state x="450" y="146" width="672" height="678" key="search.everywhere.popup" timestamp="1621144875659">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="450" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1621144875659" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/zdy_netty_consumer/src/main/java/com/lagou/zdy_netty_consumer/handler/UserServiceHandler.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/zdy_netty_consumer/src/main/java/com/lagou/zdy_netty_consumer/client/UserClientHandler.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/zdy_netty_provider/src/main/java/com/lagou/zdy_netty_provider/handler/UserServerHandler.java</url>
+          <line>81</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
